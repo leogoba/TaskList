@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		522A4D8D292FC5D8002A7037 /* Extension + UIAlertController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 522A4D8C292FC5D8002A7037 /* Extension + UIAlertController.swift */; };
 		5267F140292BD158007D816B /* StorageManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5267F13F292BD158007D816B /* StorageManager.swift */; };
 		A8580EDE2926A14400480465 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8580EDD2926A14400480465 /* AppDelegate.swift */; };
 		A8580EE02926A14400480465 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8580EDF2926A14400480465 /* SceneDelegate.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		522A4D8C292FC5D8002A7037 /* Extension + UIAlertController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Extension + UIAlertController.swift"; sourceTree = "<group>"; };
 		5267F13F292BD158007D816B /* StorageManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StorageManager.swift; sourceTree = "<group>"; };
 		A8580EDA2926A14400480465 /* TaskList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TaskList.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8580EDD2926A14400480465 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -61,6 +63,7 @@
 				A8580EDD2926A14400480465 /* AppDelegate.swift */,
 				A8580EDF2926A14400480465 /* SceneDelegate.swift */,
 				A8580EE12926A14400480465 /* TaskListViewController.swift */,
+				522A4D8C292FC5D8002A7037 /* Extension + UIAlertController.swift */,
 				A8580EE92926A14500480465 /* Assets.xcassets */,
 				A8580EEB2926A14500480465 /* LaunchScreen.storyboard */,
 				A8580EEE2926A14500480465 /* Info.plist */,
@@ -144,6 +147,7 @@
 				A8580EE22926A14400480465 /* TaskListViewController.swift in Sources */,
 				5267F140292BD158007D816B /* StorageManager.swift in Sources */,
 				A8580EDE2926A14400480465 /* AppDelegate.swift in Sources */,
+				522A4D8D292FC5D8002A7037 /* Extension + UIAlertController.swift in Sources */,
 				A8580EE02926A14400480465 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
